@@ -8,3 +8,10 @@ Takes into consideration edge cases such as:
   - Holds all nines - [9, 9, 9] -> [1, 0, 0, 0]
   
 Also includes testing with output displayed
+
+# firstRecurring
+Finds the first recurring character in a given string
+
+For example:
+  - "ABCDB" -> "B"
+  - "AAABC" -> "A"
